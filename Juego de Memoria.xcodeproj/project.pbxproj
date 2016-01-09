@@ -47,6 +47,7 @@
 		A0E633871C40C99400E41A68 /* Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego de MemoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0E6338B1C40C99400E41A68 /* Juego_de_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_de_MemoriaUITests.swift; sourceTree = "<group>"; };
 		A0E6338D1C40C99400E41A68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0E633991C40D0A600E41A68 /* Juego De Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego De Memoria.playground"; path = "../Tareas/Juego De Memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		A0E6335F1C40C99200E41A68 = {
 			isa = PBXGroup;
 			children = (
+				A0E633991C40D0A600E41A68 /* Juego De Memoria.playground */,
 				A0E6336A1C40C99300E41A68 /* Juego de Memoria */,
 				A0E6337F1C40C99300E41A68 /* Juego de MemoriaTests */,
 				A0E6338A1C40C99400E41A68 /* Juego de MemoriaUITests */,
@@ -482,6 +484,7 @@
 				A0E633921C40C99400E41A68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A0E633931C40C99400E41A68 /* Build configuration list for PBXNativeTarget "Juego de MemoriaTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				A0E633951C40C99400E41A68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A0E633961C40C99400E41A68 /* Build configuration list for PBXNativeTarget "Juego de MemoriaUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				A0E633981C40C99400E41A68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
